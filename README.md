@@ -11,3 +11,25 @@
 欢迎反馈功能建议，一同打磨更贴合摄影师使用习惯的极简排版工具。可随时查看版本更新、官方使用教程与摄影排版干货。
 如果你是摄影爱好者、独立摄影师，有功能优化、版式需求与创作交流需要，欢迎加入摄影交流社群：【微信】melixc
 同步查看版本更新、使用教程与摄影美学干货，可关注小红书：@星城影像狮
+
+A portfolio & photo book tool built for photographers. Featuring clean minimalist layouts and refined typography controls. Compose, edit and export photo albums in one place, organize your photographic works and create professional visual portfolios effortlessly.
+
+## Key Highlights
+
+Minimal Magazine Layouts: Clean and flexible page structure. Customize layouts freely to recreate styles including  documentary film aesthetics.
+
+Precise Image & Text Arrangement: Adjust photos, text and white space freely. Break free from rigid templates to build your unique photo book.
+
+High-Resolution PDF Export: Generate print-ready PDFs for physical binding, portfolio submission, archiving and sharing, covering all your photography output needs.
+
+End-to-End Portfolio Workflow: Integrates media import, layout design, text editing and high-quality export for your complete photo book creation pipeline.
+
+## Benefits
+
+Ad-free, clean experience. One-time purchase, lifetime access to all features with ongoing free updates for layouts and refinements.
+
+We welcome your feedback to refine this tool for photographers. Access release notes, tutorials and photography composition tips anytime.
+
+For feature requests and creative discussions, join our community: WeChat: melixc
+e-mail：austinc@juzciy.com
+Follow @星城影像狮 on Xiaohongshu for tutorials, updates and photography inspiration.
